@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 17 KN 16 Ave, Kiyovu, Kigali . olivier.kanamugire@aims.ac.rw . Motto. 
 
 profile:
   align: right
