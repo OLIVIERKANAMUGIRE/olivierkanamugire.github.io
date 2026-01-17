@@ -7,7 +7,6 @@ subtitle: >
   17 KN 16 Ave, Kiyovu, Kigali.
   olivier.kanamugire@aims.ac.rw.
 
-
 profile:
   align: right
   image: profile_pic.jpg
