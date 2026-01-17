@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 - title: General Information
   type: map
@@ -96,3 +97,5 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+=======
+>>>>>>> d5c17c3 (Apply Prettier fSormatting)

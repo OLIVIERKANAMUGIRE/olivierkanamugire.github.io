@@ -36,9 +36,7 @@ latest_posts:
   limit: 3
 ---
 
-
 I am a mathematician with strong interests in applied mathematics, optimization, and the mathematical foundations of machine learning. I am currently affiliated with the African Institute for Mathematical Sciences (AIMS-Rwanda), where I have been developing a solid background in rigorous mathematical analysis, probability, and computational methods through teaching assistantship.
-
 
 Through my academic training, I have gained experience in advanced mathematics, numerical methods, and programming for scientific applications. I enjoy working on problems that require both theoretical insight and computational implementation, and I am keen to further strengthen this dual perspective during my doctoral studies.
 
