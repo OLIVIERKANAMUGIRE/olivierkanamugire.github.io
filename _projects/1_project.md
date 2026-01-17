@@ -9,7 +9,8 @@ related_publications: true
 github: https://github.com/OLIVIERKANAMUGIRE/Robotic-Navigation-and-Object-Placement-Using-3D-Computer-Vision
 ---
 
-## Robotic Navigation + Object Placement  
+## Robotic Navigation + Object Placement
+
 **3D Computer Vision Project**
 
 Check it out on GitHub:  
@@ -39,10 +40,10 @@ This project uses 3D point clouds and vision algorithms to **navigate** a robot 
 
 Here’s how the project pipeline works:
 
-1. **Capture environment** with depth camera  
-2. **Generate 3D point cloud** and segment objects  
-3. **Localize robot and obstacles**  
-4. **Navigate safely** using path planning  
+1. **Capture environment** with depth camera
+2. **Generate 3D point cloud** and segment objects
+3. **Localize robot and obstacles**
+4. **Navigate safely** using path planning
 5. **Place objects** at predefined targets
 
 ---
