@@ -22,13 +22,13 @@ This project uses 3D point clouds and vision algorithms to **navigate** a robot 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robotic-vision/1.jpg" title="System Setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robotic-vision/2.png" title="System Setup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robotic-vision/2.jpg" title="3D Vision Output" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robotic-vision/1.png" title="3D Vision Output" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robotic-vision/3.jpg" title="Object Placement" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robotic-vision/3.png" title="Object Placement" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -50,11 +50,11 @@ Here’s how the project pipeline works:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robotic-vision/4.jpg" title="Navigation Demo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robotic-vision/3.png" title="Navigation Demo" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <!-- <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/robotic-vision/5.jpg" title="Point Cloud Details" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </div> -->
 </div>
 
 <div class="caption">
