@@ -22,13 +22,13 @@ This project focuses on modelling the **progression of diabetic retinopathy (DR)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robotic-vision/2.png" title="Model Pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/robotic-vision/diagram.png" title="Model Pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robotic-vision/1.png" title="Retinal Image Samples" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robotic-vision/d8.png" title="Retinal Image Samples" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/robotic-vision/3.png" title="Progression Trends" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/robotic-vision/node.png" title="Progression Trends" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -38,13 +38,13 @@ This project focuses on modelling the **progression of diabetic retinopathy (DR)
 
 ---
 
-### 📌 Motivation
+### Motivation
 
 Diabetic retinopathy is a leading cause of vision loss worldwide. While existing work often focuses on detecting or grading severity from a **single timepoint**, real-world clinical needs require tools that can **predict future disease progression** to inform treatment planning and early intervention. :contentReference[oaicite:1]{index=1}
 
 ---
 
-### 🧠 Approach Overview
+### Approach Overview
 
 This project proposes a framework that consists of two main components:
 
@@ -58,7 +58,7 @@ This project proposes a framework that consists of two main components:
 
 ---
 
-### 🧩 What Was Achieved
+### What Was Achieved
 
 - Learned a **latent space** that captures salient image features relevant for progression.
 - Predicted future DR states from historical images using a continuous time model.
@@ -66,7 +66,7 @@ This project proposes a framework that consists of two main components:
 
 ---
 
-### 🛠️ Code Highlights
+### Code Highlights
 
 The repository contains:
 
