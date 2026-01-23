@@ -435,6 +435,11 @@ ninja.data = [{
           description: "Robotic Navigation and Object Placement Using 3D Computer Vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-on-predicting-the-progression-of-diabetic-retinopathy",
+          title: 'On predicting the progression of diabetic retinopathy',
+          description: "Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
