@@ -26,18 +26,30 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 3
 ---
 
-I am a mathematician with strong interests in applied mathematics, optimization, and the mathematical foundations of machine learning. I am currently affiliated with the African Institute for Mathematical Sciences (AIMS-Rwanda), where I have been developing a solid background in rigorous mathematical analysis, probability, and computational methods through teaching assistantship.
+I am a mathematician with research interests in the following:
 
-Through my academic training, I have gained experience in advanced mathematics, numerical methods, and programming for scientific applications. I enjoy working on problems that require both theoretical insight and computational implementation, and I am keen to further strengthen this dual perspective during my doctoral studies.
+- applied mathematics & optimization
+- machine learning 
+- biomedical deep learning
 
-This website collects information about my academic background, research interests, and ongoing projects.
+I am currently affiliated with the African Institute for Mathematical Sciences (AIMS-Rwanda). Through my teaching assistantship and academic training, I have developed a strong background:
+
+- mathematical analysis
+- probability theory and statistics
+- computational methods.
+
+My training includes experience in advanced mathematics, numerical analysis, and scientific programming.
+
+I am interested in research problems that require a combination of theoretical analysis and computational implementation. I am keen to further strengthen this dual theoretical–computational perspective during my doctoral studies.
+
+This website provides information about my academic background, research interests, and ongoing projects.
