@@ -2,7 +2,7 @@
 layout: page
 title: On predicting the progression of diabetic retinopathy
 description: Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.
-img: /assets/img/robotic-vision/2.png
+img: /assets/img/robotic-vision/fundus.jpg
 importance: 2
 category: work
 related_publications: true
