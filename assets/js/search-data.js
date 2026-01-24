@@ -62,17 +62,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-nonlinear-support-vector-machine-svm-with-polynomial-kernel",
-        
-          title: "Nonlinear Support Vector Machine (SVM) with Polynomial Kernel",
-        
-        description: "Nonlinear support vector machine from scratch",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/images/";
-          
-        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -392,6 +381,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
+      },{id: "post-nonlinear-support-vector-machine-svm-with-polynomial-kernel",
+        
+          title: "Nonlinear Support Vector Machine (SVM) with Polynomial Kernel",
+        
+        description: "Nonlinear support vector machine from scratch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2014/images/";
+          
+        },
       },{id: "post-k-nearest-neighbor-knn-how-your-closest-connections-define-you",
         
           title: "K-Nearest Neighbor (KNN) -- How your closest connections define you!",
@@ -476,13 +476,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.zotero.org/k.olivier", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.olivierkanamugire.github.io/", "_blank");
         },
       },{
       id: 'light-theme',
