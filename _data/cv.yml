@@ -3,24 +3,64 @@
   contents:
     - name: Full Name
       value: Olivier Kanamugire
-    - name: Date of Birth
-      value: 2000
+    - name: Contacts
+      value: 17KN 16Ave, Kiyovu . olivier.kanamugire@aims.ac.rw . +25(0)780238602
     - name: Languages
-      value: English, French
+      value: English, French, Kinyarwanda(Native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc.
+      institution: Lappeenranta-Lahti University of Technology, Lappeenranta, Finland
+      year: 2024-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Data centric engineering with advanced specialization in computer vision and pattern recognition
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Diabetic retinopathy and predicting its progression
+        - title: Main courses
+          contents:
+            - Advanced data analysis and machine learning
+            - Pattern recognition and machine learning
+            - Digital imaging and image processing
+            - Machine vision and digital image analysis
+            - 3D computer vision
+
+    - title: MSc.
+      institution: African Institute for Mathematical Sciences, Kigali, Rwanda
+      year: 2023-2024
+      description:
+        - Mathematical Sciences with major in data science
+        - title: Thesis
+          contents:
+            - Advanced deep learning for malaria detection using a microscope
+        - title: Main courses
+          contents:
+            - Statistical regression
+            - Statistical machine learning
+            - PDEs
+            - Big data analytics with Python
+            - Interpretable machine learning
+            - Numerical linear algebra
+
+    - title: BSc.
+      institution: University of Rwanda – College of Science and Technology, Kigali, Rwanda
+      year: 2019-2023
+      description:
+        - Mathematics with specialization in applied mathematics
+        - title: Thesis
+          contents:
+            - Theory of generalized functions to analyse the Cauchy problem for the wave equation
+        - title: Main courses
+          contents:
+            - Algebra
+            - Calculus
+            - Differential equations
+            - Topology
+            - Measure theory
+            - Stochastic processes
+
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
