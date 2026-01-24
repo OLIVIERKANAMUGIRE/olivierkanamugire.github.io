@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K-Nearest Neighbor (KNN) -- How your closest connections define you!
-date: 2014-07-15 15:09:00
+date: 2024-12-15
 description: KNN algorithm from scratch
 tags: formatting code
 categories: sample-posts

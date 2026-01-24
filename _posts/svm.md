@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nonlinear Support Vector Machine (SVM) with Polynomial Kernel
-date: 2014-12-20
+date: 2025-12-20
 description: Nonlinear support vector machine from scratch
 tags: formatting images
 categories: sample-posts
