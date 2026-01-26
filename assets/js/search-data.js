@@ -73,9 +73,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-optimization-fundamentals-from-minimization-to-algorithms",
+      },{id: "post-on-the-optimization-algorithms-and-learning-rate",
         
-          title: "Optimization Fundamentals — From Minimization to Algorithms",
+          title: "On the optimization algorithms and learning rate",
         
         description: "Gradient descent (GD), Stochastic GD, Adam optimizer",
         section: "Posts",
