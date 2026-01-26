@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimization Fundamentals — From Minimization to Algorithms
+title: On the optimization algorithms and learning rate
 date: 2025-01-05
 description: Gradient descent (GD), Stochastic GD, Adam optimizer
 tags: formatting videos
