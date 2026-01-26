@@ -20,8 +20,10 @@ This article introduces the fundamental ideas behind optimization in machine lea
 
 In supervised learning, we are given a dataset $\mathcal{D} = \{(x_i, y_i)\}_{i=1}^N$and a model parameterized by $\theta$. Learning consists of minimizing a loss function:
 
-$$\theta^\* = \arg\min_{\theta} \mathcal{L}(\theta), 
-\quad \text{where} \quad \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell\big(f(x_i; \theta), y_i\big).$$
+$$
+\theta^\* = \arg\min_{\theta} \mathcal{L}(\theta),
+\quad \text{where} \quad \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell\big(f(x_i; \theta), y_i\big).
+$$
 
 The loss surface can be convex or non-convex, smooth or highly irregular, low- or high-dimensional.
 
