@@ -5,7 +5,7 @@ date: 2025-01-10
 description: Binary classification of ultrasonic flow meter health using logistic regression and numerical optimization
 tags: machine-learning classification optimization
 categories: sample-posts
-thumbnail: assets/img/ultrasonic.jpg
+thumbnail: assets/img/ADML/ultrasonic.jpg
 ---
 
 ## Introduction
@@ -66,10 +66,10 @@ where $\mu$ and $\sigma$ denote the mean and standard deviation of each feature.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ADAML/box1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/ADML/box1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ADAML/box2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/ADML/box2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -81,13 +81,7 @@ No missing values or categorical variables were detected in the dataset.
 
 Due to the sequential ordering of healthy and faulty observations, the dataset was **shuffled prior to splitting** to ensure representative samples in both subsets.
 
-Multiple split ratios were evaluated:
-
-- 60:40
-- 65:35
-- 70:30
-- 75:25
-- 80:20
+Multiple split ratios were evaluated: 60:40, 75:25, 80:20.
 
 This allowed us to analyze how training data size affects convergence, generalization, and classification accuracy.
 
