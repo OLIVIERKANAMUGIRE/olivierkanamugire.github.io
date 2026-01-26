@@ -36,12 +36,9 @@ Optimization algorithms define _how_ we move on this surface to reach a good sol
 
 Gradient Descent is the most fundamental first-order optimization method. It iteratively updates parameters in the direction of the negative gradient of the loss function:
 
-$ \theta*{t+1} = \theta_t - \eta \nabla*{\theta}\mathcal{L}(\theta_t)$
+$\theta_{t+1} = \theta_t - \eta \nabla*{\theta}\mathcal{L}(\theta_t)$
 
-where:
-
-- $\nabla_{\theta}\mathcal{L}$ is the gradient
-- $\eta > 0\$ is the learning rate
+where $\nabla_{\theta}\mathcal{L}$ is the gradient and $\eta > 0\$ is the learning rate.
 
 ## Example of its convergence
 
