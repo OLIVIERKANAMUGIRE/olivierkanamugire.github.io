@@ -140,7 +140,7 @@ This setup allowed us to study the **natural convergence behavior** of the optim
         {% include figure.liquid path="assets/img/ADML/fminsearch75.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ADML/fminsearch80" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/ADML/fminsearch80.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
