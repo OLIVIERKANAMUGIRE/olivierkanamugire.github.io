@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Writings
+title: Writings and Readings
 nav: true
 nav_order: 1
 pagination:

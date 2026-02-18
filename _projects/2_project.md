@@ -9,7 +9,7 @@ related_publications: true
 github: https://github.com/OLIVIERKANAMUGIRE/Diabetic-Retinopathy-and-Predicting-its-Progression
 ---
 
-## Predicting Progression of Diabetic Retinopathy
+## Master's Thesis: Predicting Progression of Diabetic Retinopathy
 
 **Longitudinal AI for Disease Progression**
 

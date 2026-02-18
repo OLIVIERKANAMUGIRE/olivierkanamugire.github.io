@@ -21,19 +21,22 @@ I strive to foster curiosity, independence, and practical skills—particularly 
 
 # Teaching Experience
 
-## Teaching Assistant  
+## Teaching Assistant
+
 **African Institute for Mathematical Sciences (AIMS), Rwanda**  
-*2025 – Present*
+_2025 – Present_
 
 ### Courses Supported
-- Mathematical Problem Solving  
-- Python Programming  
-- Statistical Regression  
-- Bayesian Statistics  
-- Statistical Machine Learning  
-- Data-Driven Optimization  
+
+- Mathematical Problem Solving
+- Python Programming
+- Statistical Regression
+- Bayesian Statistics
+- Statistical Machine Learning
+- Data-Driven Optimization
 
 ### Responsibilities
+
 - Conduct tutorials and hands-on coding exercises in **Python, R, and MATLAB**
 - Guide students in developing and refining their personal and group projects
 - Grade assignments and quizzes, providing constructive and actionable feedback
@@ -41,6 +44,6 @@ I strive to foster curiosity, independence, and practical skills—particularly 
 
 ### Teaching Environment
 
-I have supported a cohort of **40 students** from various African nationalities and educational backgrounds.  
+I have supported a cohort of **40 students** from various African nationalities and educational backgrounds.
 
 Working in such a multicultural and academically diverse setting has been both challenging and deeply rewarding. It has strengthened my ability to adapt explanations, support different learning styles, and create an interactive and collaborative classroom atmosphere.
