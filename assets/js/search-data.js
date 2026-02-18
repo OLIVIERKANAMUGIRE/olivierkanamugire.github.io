@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-writings",
-          title: "Writings",
+  },{id: "nav-writings-and-readings",
+          title: "Writings and Readings",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-projects-and-software",
+          title: "Projects and Software",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -71,17 +71,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/svd_blog_extended/";
-          
-        },
-      },{id: "post-singular-value-decomposition-for-hyperspectral-image-dimensionality-reduction",
-        
-          title: "Singular Value Decomposition for Hyperspectral Image Dimensionality Reduction",
-        
-        description: "Dimensionality reduction of the Indian Pines hyperspectral dataset using Singular Value Decomposition (SVD)",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/svdappli/";
           
         },
       },{id: "post-logistic-regression-for-ultrasonic-flow-meter-health-classification",
@@ -180,6 +169,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/olivier-kanamugire-69b585233", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0005-9987-3980", "_blank");
         },
       },{
         id: 'social-scholar',
