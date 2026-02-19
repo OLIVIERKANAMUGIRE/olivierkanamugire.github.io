@@ -2,20 +2,16 @@
 layout: page
 title: Latent ODE Autoencoder
 description: Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.
-img: assets/img/projects/latent_ode_cover.png
-importance: 1
+img: assets/img/projects/app_frontface.png
+importance: 2
 category: work
 related_publications: false
 ---
 
 <div class="row justify-content-center mb-4">
   <div class="col-auto">
-    <a href="https://github.com/your-username/latent-ode-retinopathy" target="_blank" class="btn btn-sm z-depth-1" style="background:#24292e;color:white;border:none;padding:7px 18px;border-radius:6px;font-size:13px;">
+    <a href="https://github.com/OLIVIERKANAMUGIRE/DR-APP" target="_blank" class="btn btn-sm z-depth-1" style="background:#24292e;color:white;border:none;padding:7px 18px;border-radius:6px;font-size:13px;">
       <i class="fab fa-github me-1"></i> GitHub
-    </a>
-    &nbsp;
-    <a href="http://your-demo-link.com" target="_blank" class="btn btn-sm z-depth-1" style="background:#7c6af7;color:white;border:none;padding:7px 18px;border-radius:6px;font-size:13px;">
-      <i class="fas fa-external-link-alt me-1"></i> Live Demo
     </a>
   </div>
 </div>
