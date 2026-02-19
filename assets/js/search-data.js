@@ -135,6 +135,11 @@ ninja.data = [{
           description: "Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-latent-ode-autoencoder",
+          title: 'Latent ODE Autoencoder',
+          description: "Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/latent_ode/";
             },},{
         id: 'social-cv',
         title: 'CV',
