@@ -44,12 +44,11 @@ My research interests centre on three interconnected themes:
 
 ---
 
-
 #### Background
 
 Through my academic training and teaching assistantship at AIMS-Rwanda, I have built a strong foundation across:
 
-- Mathematical analysis 
+- Mathematical analysis
 - Probability theory & statistics
 - Numerical methods and scientific programming
 
