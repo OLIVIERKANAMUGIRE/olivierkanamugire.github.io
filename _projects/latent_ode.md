@@ -2,10 +2,10 @@
 layout: page
 title: Latent ODE Autoencoder
 description: Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.
-img: assets/img/projects/app_frontface.png
+img: assets/img/robotic-vision/app_frontface.png
 importance: 2
 category: work
-related_publications: false
+related_publications: true
 ---
 
 <div class="row justify-content-center mb-4">
