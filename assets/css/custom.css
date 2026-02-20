@@ -21,14 +21,32 @@
 /* Hover animation */
 .interest-box:hover {
   transform: translateY(-4px) scale(1.05);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
   opacity: 0.95;
 }
 
 /* Strong modern colors */
-.blue { background-color: #3b82f6; color: white; }
-.purple { background-color: #8b5cf6; color: white; }
-.teal { background-color: #14b8a6; color: white; }
-.green { background-color: #22c55e; color: white; }
-.orange { background-color: #f97316; color: white; }
-.red { background-color: #ef4444; color: white; }
+.blue {
+  background-color: #3b82f6;
+  color: white;
+}
+.purple {
+  background-color: #8b5cf6;
+  color: white;
+}
+.teal {
+  background-color: #14b8a6;
+  color: white;
+}
+.green {
+  background-color: #22c55e;
+  color: white;
+}
+.orange {
+  background-color: #f97316;
+  color: white;
+}
+.red {
+  background-color: #ef4444;
+  color: white;
+}
