@@ -1,4 +1,4 @@
----
+**---
 layout: about
 title: about
 permalink: /
@@ -33,32 +33,35 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+I am a presently a teaching assistant at the African Institute for Mathematical
+sciences (AIMS) in Rwanda. I have a master's degree in data-centric engineering with advanced
+specialization from Lappeenranta university of technology. I am also an AIMS alumnus 2023-2024
+where I obtained my master's degree in mathematical sciences with major in data science. My foundations
+is rooted in mathematics since many years of my schooling has been mathematics at a core (Undergraduate and high school). 
 
-I am a mathematician and researcher at the **African Institute for Mathematical Sciences (AIMS-Rwanda)**, working at the intersection of **applied mathematics**, **machine learning**, and **biomedical imaging**. My work is driven by a core conviction: that rigorous mathematical theory and modern computational methods, brought together, can produce tools that genuinely matter for human health.
+My research interests centre on three themes:
 
-My research interests centre on three interconnected themes:
+<h3>Research Interests</h3>
+<div class="interest-container">
+  <span class="interest-box blue">AI & Machine Learning</span>
+  <span class="interest-box purple">Applied Mathematics</span>
+  <span class="interest-box teal">Optimisation</span>
+</div>
 
-- **Machine learning** — deep learning architectures, generative models, representation learning and uncertainty quantification
-- **Applied mathematics & optimisation** — variational methods, numerical analysis, and continuous dynamical systems
-- **Biomedical deep learning** — medical image analysis, disease progression modelling, and clinical decision support
+<h3>Application Areas</h3>
+<div class="interest-container">
+  <span class="interest-box green">Health</span>
+  <span class="interest-box orange">Robotics</span>
+  <span class="interest-box red">Industry</span>
+</div>
 
 ---
-
-#### Background
-
-Through my academic training and teaching assistantship at AIMS-Rwanda, I have built a strong foundation across:
-
-- Mathematical analysis
-- Probability theory & statistics
-- Numerical methods and scientific programming
-
-This dual theoretical–computational formation shapes how I approach research: I look for problems where mathematical structure illuminates what a model can and cannot do, and where computation makes theory tangible and testable.
-
----
-
 #### Looking Ahead
 
-I am actively seeking **doctoral opportunities** in scientific machine learning, computational mathematics, or biomedical AI — particularly environments where deep theoretical work and applied impact reinforce each other. I am drawn to problems that require building new methodology rather than applying existing tools, and to research groups that value mathematical rigour as much as empirical results.
+I am actively seeking **doctoral opportunities** in 
+scientific machine learning, computational mathematics, 
+or biomedical AI — particularly environments where deep 
+theoretical work and applied impact reinforce each other. 
 
 If you work on problems at the intersection of machine learning, deep learning, or medical imaging and are looking for a motivated PhD student, I would be glad to connect.
 
