@@ -2,7 +2,7 @@
 layout: page
 title: On predicting the progression of diabetic retinopathy
 description: Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.
-img: /assets/img/robotic-vision/fundus.jpg
+img: /assets/img/robotic-vision/diagram.png
 importance: 2
 category: work
 related_publications: true
@@ -16,14 +16,11 @@ github: https://github.com/OLIVIERKANAMUGIRE/Diabetic-Retinopathy-and-Predicting
 Check it out on GitHub:  
 👉 [Diabetic Retinopathy and Predicting its Progression]({{ page.github }})
 
-This project focuses on modelling the **progression of diabetic retinopathy (DR)** over time using retinal fundus photographs and deep learning techniques. Unlike traditional work that focuses exclusively on classification or lesion segmentation, this research explores how the disease evolves longitudinally.
+This project focuses on modeling the **progression of diabetic retinopathy (DR)** over time using retinal fundus photographs and deep learning techniques. Unlike traditional work that focuses exclusively on classification or lesion segmentation, this research explores how the disease evolves longitudinally.
 
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/robotic-vision/diagram.png" title="Model Pipeline" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/robotic-vision/d8.png" title="Retinal Image Samples" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -33,7 +30,7 @@ This project focuses on modelling the **progression of diabetic retinopathy (DR)
 </div>
 
 <div class="caption">
-    Left: proposed model architecture for progression prediction. Center: example fundus images. Right: demonstration of latent evolution over time.
+    Left: example fundus images. Right: demonstration of latent evolution model.
 </div>
 
 ---
