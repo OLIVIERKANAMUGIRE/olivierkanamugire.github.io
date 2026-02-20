@@ -1,39 +1,37 @@
-\*\*---
+---
 layout: about
 title: about
 permalink: /
 subtitle: >
-<a href="https://aims.ac.rw/">African Institute for Mathematical Sciences — Rwanda</a> &nbsp;·&nbsp;
-Kigali, Rwanda &nbsp;·&nbsp;
-<a href="mailto:olivier.kanamugire@aims.ac.rw">olivier.kanamugire@aims.ac.rw</a>
+  <a href="https://aims.ac.rw/">African Institute for Mathematical Sciences — Rwanda</a> &nbsp;·&nbsp;
+  Kigali, Rwanda &nbsp;·&nbsp;
+  <a href="mailto:olivier.kanamugire@aims.ac.rw">olivier.kanamugire@aims.ac.rw</a>
 
 profile:
-align: right
-image: profile_pic.jpg
-image_circular: true
-more_info: >
-
-<p><strong>Olivier Kanamugire</strong></p>
-<p>African Institute for Mathematical Sciences</p>
-<p>17 KN 16 Ave, Kiyovu</p>
-<p>Kigali, Rwanda</p>
-<p>
-<a href="mailto:olivier.kanamugire@aims.ac.rw">olivier.kanamugire@aims.ac.rw</a>
-</p>
+  align: right
+  image: profile_pic.jpg
+  image_circular: true
+  more_info: >
+    <p><strong>Olivier Kanamugire</strong></p>
+    <p>African Institute for Mathematical Sciences</p>
+    <p>17 KN 16 Ave, Kiyovu</p>
+    <p>Kigali, Rwanda</p>
+    <p>
+      <a href="mailto:olivier.kanamugire@aims.ac.rw">olivier.kanamugire@aims.ac.rw</a>
+    </p>
 
 selected_papers: true
 social: true
 
 announcements:
-enabled: true
-scrollable: true
-limit: 5
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-enabled: false
-scrollable: true
-limit: 3
-
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
 I am a presently a teaching assistant at the African Institute for Mathematical
