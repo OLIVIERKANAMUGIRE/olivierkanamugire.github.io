@@ -135,8 +135,13 @@ ninja.data = [{
           description: "Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-latent-ode-autoencoder",
-          title: 'Latent ODE Autoencoder',
+            },},{id: "projects-theory-of-generalized-functions-to-analyse-the-cauchy-problem-for-the-wave-equation",
+          title: 'Theory of generalized functions to analyse the Cauchy problem for the wave equation...',
+          description: "Partial Differential Equations, generalized functions, wave equation, Fourier transform",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-software-latent-ode-autoencoder",
+          title: 'Software-Latent ODE Autoencoder',
           description: "Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/latent_ode/";
