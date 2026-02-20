@@ -35,10 +35,7 @@ latest_posts:
 ---
 
 I am a presently a teaching assistant at the African Institute for Mathematical
-sciences (AIMS) in Rwanda. I have a master's degree in data-centric engineering with advanced
-specialization from Lappeenranta university of technology. I am also an AIMS alumnus 2023-2024
-where I obtained my master's degree in mathematical sciences with major in data science. My foundations
-is rooted in mathematics since many years of my schooling has been mathematics at a core (Undergraduate and high school).
+sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning and computer vision.
 
 My research interests centre on three themes:
 
@@ -49,23 +46,15 @@ My research interests centre on three themes:
   <span class="interest-box teal">Optimisation</span>
 </div>
 
-<h3>Application Areas</h3>
-<div class="interest-container">
-  <span class="interest-box green">Health</span>
-  <span class="interest-box orange">Robotics</span>
-  <span class="interest-box red">Industry</span>
-</div>
-
 ---
 
 #### Looking Ahead
 
 I am actively seeking **doctoral opportunities** in
 scientific machine learning, computational mathematics,
-or biomedical AI — particularly environments where deep
-theoretical work and applied impact reinforce each other.
+or biomedical AI.
 
-If you work on problems at the intersection of machine learning, deep learning, or medical imaging and are looking for a motivated PhD student, I would be glad to connect.
+If you work on problems at the intersection of machine learning, deep learning, or medical imaging, I would be glad to connect.
 
 ---
 
