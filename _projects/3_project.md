@@ -3,7 +3,7 @@ layout: page
 title: Theory of generalized functions to analyse the Cauchy problem for the wave equation
 
 description: Partial Differential Equations, generalized functions, wave equation, Fourier transform
-img: /assets/img/robotic-vision/bachelorthesis.png
+img: /assets/img/robotic-vision/waveequation.jpg
 importance: 2
 category: work
 related_publications: true
