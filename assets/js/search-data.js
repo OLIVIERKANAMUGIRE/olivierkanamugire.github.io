@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "African Institute for Mathematical Sciences.",
+        },{id: "nav-teaching-experience",
+          title: "Teaching Experience",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
