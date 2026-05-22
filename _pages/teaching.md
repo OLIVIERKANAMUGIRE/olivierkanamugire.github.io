@@ -18,7 +18,7 @@ nav_order: 6
     <span style="font-size: 13px; color: #6b7280; padding: 4px 12px; border: 1px solid #e5e7eb; border-radius: 6px; background: #fff; white-space: nowrap;">2025 – Present</span>
   </div>
 
-  <div style="padding: 1.5rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+  <div style="padding: 2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
 
     <!-- Courses -->
     <div style="grid-column: 1 / -1;">

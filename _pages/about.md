@@ -34,7 +34,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a presently a teaching assistant at the African Institute for Mathematical
+I am a teaching assistant at the African Institute for Mathematical
 sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning and computer vision.
 
 My research interests centre on three themes:
@@ -54,7 +54,8 @@ I am actively seeking **doctoral opportunities** in
 scientific machine learning, computational mathematics,
 or biomedical AI.
 
-If you work on problems at the intersection of machine learning, deep learning, or medical imaging, I would be glad to connect.
+If you work on problems at the intersection of machine learning, deep learning, or medical imaging,
+I would be glad to connect.
 
 ---
 
