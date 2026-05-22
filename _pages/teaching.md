@@ -27,12 +27,15 @@ nav_order: 6
       <p style="margin: 0 0 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #6b7280;">Courses Supported</p>
       <div style="display: flex; flex-wrap: wrap; gap: 6px;">
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Mathematical Problem Solving</span>
+        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Physical Problem Solving</span>
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Python Programming</span>
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Regression</span>
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Bayesian Statistics</span>
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Machine Learning</span>
         <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Data-Driven Optimization</span>
-      </div>
+        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Database and Data Management</span>
+        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Introduction to Neural Networks</span>
+
     </div>
 
     <!-- Responsibilities -->
@@ -67,7 +70,7 @@ nav_order: 6
           <p style="margin: 4px 0 0; font-size: 12px; color: #6b7280;">students per cohort</p>
         </div>
         <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; text-align: center;">
-          <p style="margin: 0; font-size: 26px; font-weight: 700; color: #111827;">6</p>
+          <p style="margin: 0; font-size: 26px; font-weight: 700; color: #111827;">9</p>
           <p style="margin: 4px 0 0; font-size: 12px; color: #6b7280;">courses supported</p>
         </div>
         <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; text-align: center; grid-column: 1 / -1;">
