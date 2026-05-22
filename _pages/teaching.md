@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 # Teaching Experience
+
 <div style="background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; overflow: hidden; font-family: Georgia, serif; max-width: 860px; margin: 2rem auto;">
 
   <!-- Header -->
