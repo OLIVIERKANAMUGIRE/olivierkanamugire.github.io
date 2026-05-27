@@ -7,7 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-<div style="background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; overflow: hidden; font-family: Georgia, serif; max-width: 860px; margin: 2rem auto;">
+<div style="background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; overflow: hidden; font-family: Georgia, serif; max-width: 860px; margin: 1.5
+rem auto;">
 
   <!-- Header -->
   <div style="background: #f8f9fa; border-bottom: 1px solid #e5e7eb; padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
@@ -15,7 +16,7 @@ nav_order: 6
       <p style="margin: 0; font-size: 12px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 600;">Teaching Assistant</p>
       <p style="margin: 4px 0 0; font-size: 16px; font-weight: 700; color: #111827;">African Institute for Mathematical Sciences (AIMS), Rwanda</p>
     </div>
-    <span style="font-size: 13px; color: #6b7280; padding: 4px 12px; border: 1px solid #e5e7eb; border-radius: 6px; background: #fff; white-space: nowrap;">2025 – Present</span>
+    <span style="font-size: 13px; color: #6b7280; padding: 4px 12px; border: 1px solid #e5e7eb; border-radius: 6px; background: #fff; white-space: nowrap;">Sept. 2025 – Present</span>
   </div>
 
   <div style="padding: 2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
@@ -24,15 +25,15 @@ nav_order: 6
     <div style="grid-column: 1 / -1;">
       <p style="margin: 0 0 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #6b7280;">Courses Supported</p>
       <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Mathematical Problem Solving</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Physical Problem Solving</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Python Programming</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Regression</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Bayesian Statistics</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Machine Learning</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Data-Driven Optimization</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Database and Data Management</span>
-        <span style="font-size: 13px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Introduction to Neural Networks</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Mathematical Problem Solving</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Physical Problem Solving</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Python Programming</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Regression</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Bayesian Statistics</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Statistical Machine Learning</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Data-Driven Optimization</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Database and Data Management</span>
+        <span style="font-size: 11px; padding: 4px 11px; border-radius: 6px; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe;">Introduction to Neural Networks</span>
 
     </div>
 
