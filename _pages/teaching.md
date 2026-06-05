@@ -59,24 +59,5 @@ rem auto;">
         </li>
       </ul>
     </div>
-
-    <!-- Stats -->
-    <div>
-      <p style="margin: 0 0 10px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #6b7280;">Teaching Environment</p>
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
-        <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; text-align: center;">
-          <p style="margin: 0; font-size: 26px; font-weight: 700; color: #111827;">40</p>
-          <p style="margin: 4px 0 0; font-size: 12px; color: #6b7280;">students per cohort</p>
-        </div>
-        <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; text-align: center;">
-          <p style="margin: 0; font-size: 26px; font-weight: 700; color: #111827;">9</p>
-          <p style="margin: 4px 0 0; font-size: 12px; color: #6b7280;">courses supported</p>
-        </div>
-        <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; padding: 12px; text-align: center; grid-column: 1 / -1;">
-          <p style="margin: 0; font-size: 13px; color: #6b7280; line-height: 1.5;">Pan-African cohort from diverse nationalities and academic backgrounds</p>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
