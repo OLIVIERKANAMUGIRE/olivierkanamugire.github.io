@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-writings-and-readings",
-          title: "Writings and Readings",
+  },{id: "nav-blogs",
+          title: "blogs",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects-and-software",
-          title: "Projects and Software",
+        },{id: "nav-software",
+          title: "software",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching-experience",
-          title: "Teaching Experience",
+          title: "teaching experience",
           description: "",
           section: "Navigation",
           handler: () => {
