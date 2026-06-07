@@ -37,13 +37,13 @@ latest_posts:
 I am a teaching assistant at the African Institute for Mathematical
 sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning and computer vision.
 
-My research interests centre on three themes:
-
 <h3>Research Interests</h3>
 <div class="interest-container">
-  <span class="interest-box blue">AI & Machine Learning</span>
-  <span class="interest-box purple">Applied Mathematics</span>
-  <span class="interest-box teal">Optimisation</span>
+  <span class="interest-box blue">AI & machine learning</span>
+  <span class="interest-box purple">applied mathematics & optimization</span>
+  <span class="interest-box teal">mathematical morphology</span>
+  <span class="interest-box green">biomedical imaging</span>
+
 </div>
 
 ---
