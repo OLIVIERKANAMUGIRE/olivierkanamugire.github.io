@@ -130,18 +130,8 @@ ninja.data = [{
           description: "Robotic Navigation and Object Placement Using 3D Computer Vision",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-on-predicting-the-progression-of-diabetic-retinopathy",
-          title: 'On predicting the progression of diabetic retinopathy',
-          description: "Deep learning and longitudinal modelling for diabetic retinopathy progression prediction.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-theory-of-generalized-functions-to-analyse-the-cauchy-problem-for-the-wave-equation",
-          title: 'Theory of generalized functions to analyse the Cauchy problem for the wave equation...',
-          description: "Partial Differential Equations, generalized functions, wave equation, Fourier transform",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-software-latent-ode-autoencoder",
-          title: 'Software-Latent ODE Autoencoder',
+            },},{id: "projects-dr-proganalyzer",
+          title: 'DR-progAnalyzer',
           description: "Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/latent_ode/";
