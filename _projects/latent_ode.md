@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software-Latent ODE Autoencoder
+title: DR-progAnalyzer
 description: Predicting the future progression of Diabetic Retinopathy through Neural ODEs in latent space.
 img: assets/img/robotic-vision/app_frontface.png
 importance: 2
