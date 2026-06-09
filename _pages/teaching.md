@@ -47,6 +47,7 @@ nav_order: 6
       <li>Grade assignments and quizzes with constructive, actionable feedback.</li>
       <li>Participate in academic meetings and report on student progress.</li>
     </ul>
+
 </div>
 
 </div>
