@@ -122,8 +122,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-joing-aims-rwanda-as-a-teaching-assistant",
-          title: 'I am joing AIMS-Rwanda as a teaching assistant.',
+            },},{id: "news-i-am-joining-aims-rwanda-as-a-teaching-assistant",
+          title: 'I am joining AIMS-Rwanda as a teaching assistant.',
+          description: "",
+          section: "News",},{id: "news-i-am-joining-aims-ric-as-a-research-assistant",
+          title: 'I am joining AIMS-RIC as a research assistant.',
           description: "",
           section: "News",},{id: "projects-robotic-3d-vision",
           title: 'Robotic 3D Vision',
