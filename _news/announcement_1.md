@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joing AIMS-Rwanda as a teaching assistant.
+I am joining AIMS-Rwanda as a teaching assistant.
