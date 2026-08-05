@@ -10,7 +10,8 @@ subtitle: >
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: false
+  image_circular: true
+  
   more_info: >
     <p><strong>Olivier Kanamugire</strong></p>
     <p>African Institute for Mathematical Sciences</p>
@@ -42,8 +43,8 @@ sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning 
 <div class="interest-container">
   <span class="interest-box blue">AI & machine learning</span>
   <span class="interest-box purple">maths & optimization</span>
-  <span class="interest-box teal">Privacy ML</span>
-  <span class="interest-box green">biomedical imaging &personalized medicine </span>
+  <span class="interest-box teal">privacy machine learning</span>
+  <span class="interest-box green">biomedical imaging & personalized medicine </span>
 
 </div>
 ---
