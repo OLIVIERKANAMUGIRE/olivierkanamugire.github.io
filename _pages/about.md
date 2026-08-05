@@ -35,25 +35,25 @@ latest_posts:
   limit: 3
 ---
 
-I am a research fellow at the African Institute for Mathematical Science- Research
+I am a research fellow at the African Institute for Mathematical Science - Research
 and Innovation Center (AIMS-RIC). I am also a teaching assistant at the African Institute for Mathematical
 sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning and computer vision.
 
 <h3>Research Interests</h3>
+
 <div class="interest-container">
-  <span class="interest-box blue">AI & machine learning</span>
+  <span class="interest-box blue">artificial intelligence & machine learning</span>
   <span class="interest-box purple">mathematics & optimization</span>
-  <span class="interest-box teal">privacy machine learning</span>
+  <span class="interest-box teal">privacy preserving machine learning</span>
   <span class="interest-box green">biomedical imaging & personalized medicine </span>
 
 </div>
 ---
 
-#### Looking Ahead
+<h3>Looking ahead</h3>
 
-I am actively looking for collaboration in research 
-projects that employs machine learning and AI to solve 
-problems in health, climate and energy.
+I am actively looking for collaboration in research projects that employs machine learning and AI
+to solve problems in health, climate and energy.
 
 I am also interested in contributing to scientific communities by providing impactful research papers.
 If you work on problems at the intersection of machine learning, deep learning, or medical imaging,
