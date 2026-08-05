@@ -10,7 +10,7 @@ subtitle: >
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: true
+  image_circular: false
   
   more_info: >
     <p><strong>Olivier Kanamugire</strong></p>
@@ -42,7 +42,7 @@ sciences (AIMS) in Rwanda. I have a background in mathematics, machine learning 
 <h3>Research Interests</h3>
 <div class="interest-container">
   <span class="interest-box blue">AI & machine learning</span>
-  <span class="interest-box purple">maths & optimization</span>
+  <span class="interest-box purple">mathematics & optimization</span>
   <span class="interest-box teal">privacy machine learning</span>
   <span class="interest-box green">biomedical imaging & personalized medicine </span>
 
@@ -60,4 +60,3 @@ If you work on problems at the intersection of machine learning, deep learning, 
 I would be glad to connect.
 ---
 
-[//]: # (This website collects my [research projects]&#40;/projects/&#41;, academic background, and ongoing work. Feel free to reach out.)
