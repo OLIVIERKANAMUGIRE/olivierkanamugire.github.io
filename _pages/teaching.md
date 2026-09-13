@@ -27,7 +27,7 @@ nav_order: 6
 </div>
 
 <span style="font-size: 13px; white-space: nowrap;">
-  Sept. 2025 – Present
+  Sept. 2025 – June 2026
 </span>
 ```
 
