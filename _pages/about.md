@@ -52,30 +52,30 @@ My background is in mathematics, machine learning and computer vision.
   padding: 6px 16px;
   border-radius: 999px;
   border: 2px solid;
-  background: #ffffff;
+  background: #0a0909;
   font-size: 0.9rem;
   font-weight: 500;
   line-height: 1.4;
 }
 
 .interest-pill.blue {
-  border-color: #4a90d9;
-  color: #4a90d9;
+  border-color: #265689;
+  color: #fdfdfd;
 }
 
 .interest-pill.purple {
   border-color: #9b59b6;
-  color: #9b59b6;
+  color: #ffffff;
 }
 
 .interest-pill.teal {
   border-color: #16a085;
-  color: #16a085;
+  color: #ffffff;
 }
 
 .interest-pill.green {
   border-color: #27ae60;
-  color: #27ae60;
+  color: #ffffff;
 }
 </style>
 
