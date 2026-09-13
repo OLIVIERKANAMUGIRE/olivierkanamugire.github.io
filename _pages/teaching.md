@@ -15,16 +15,16 @@ nav_order: 6
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 1rem;">
 
 <div>
-  <p style="margin: 0; font-size: 12px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 600;">
+  <p style="margin: 0; font-size: 14px; text-transform: uppercase; letter-spacing: 0.07em; font-weight: 600;">
     Teaching Assistant
   </p>
 
-  <p style="margin: 4px 0 0; font-size: 16px; font-weight: 700;">
+  <p style="margin: 4px 0 0; font-size: 18px; font-weight: 700;">
     African Institute for Mathematical Sciences (AIMS), Rwanda
   </p>
 </div>
 
-<span style="font-size: 13px; white-space: nowrap;">
+<span style="font-size: 15px; white-space: nowrap;">
   Sept. 2025 – June 2026
 </span>
 
@@ -34,11 +34,11 @@ nav_order: 6
 
   <div style="margin-bottom: 1rem;">
 
-<p style="margin: 0 0 6px; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;">
+<p style="margin: 0 0 6px; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;">
   Courses Supported
 </p>
 
-<p style="margin: 0; font-size: 12px; line-height: 1.7;">
+<p style="margin: 0; font-size: 14px; line-height: 1.7;">
   Mathematical Problem Solving · Physical Problem Solving · Python Programming ·
   Statistical Regression · Bayesian Statistics · Statistical Machine Learning ·
   Data-Driven Optimization · Database and Data Management · Introduction to Neural Networks
@@ -50,7 +50,7 @@ nav_order: 6
 
   <div>
 
-<p style="margin: 0 0 6px; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;">
+<p style="margin: 0 0 6px; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;">
   Responsibilities
 </p>
 
