@@ -52,11 +52,10 @@ My background is in mathematics, machine learning and computer vision.
   padding: 6px 16px;
   border-radius: 999px;
   border: 2px solid;
-  background: transparent;
+  background: none;
   font-size: 0.9rem;
   font-weight: 500;
   line-height: 1.4;
-  transition: all 0.2s ease;
 }
 
 .interest-pill.blue {
@@ -78,14 +77,6 @@ My background is in mathematics, machine learning and computer vision.
   border-color: #27ae60;
   color: #27ae60;
 }
-
-.interest-pill:hover {
-  color: #fff;
-}
-.interest-pill.blue:hover   { background: #4a90d9; }
-.interest-pill.purple:hover { background: #9b59b6; }
-.interest-pill.teal:hover   { background: #16a085; }
-.interest-pill.green:hover  { background: #27ae60; }
 </style>
 
 <h3>Research Interests</h3>
