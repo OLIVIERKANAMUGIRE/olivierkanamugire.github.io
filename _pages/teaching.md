@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching experience
-description: teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-<div style="font-family: Georgia, serif; max-width: 860px; margin: 1.5rem auto;">
+<div style="font-family: serif; max-width: 860px; margin: 1.5rem auto;">
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; margin-bottom: 1rem;">
     <div>
