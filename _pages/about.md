@@ -52,7 +52,7 @@ My background is in mathematics, machine learning and computer vision.
   padding: 6px 16px;
   border-radius: 999px;
   border: 2px solid;
-  background: none;
+  background: #ffffff;
   font-size: 0.9rem;
   font-weight: 500;
   line-height: 1.4;
