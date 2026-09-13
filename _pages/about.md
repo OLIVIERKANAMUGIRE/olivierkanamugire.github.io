@@ -43,7 +43,7 @@ My background is in mathematics, machine learning and computer vision.
 .interest-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   margin: 1rem 0;
 }
 
@@ -51,11 +51,11 @@ My background is in mathematics, machine learning and computer vision.
   display: inline-block;
   padding: 6px 16px;
   border-radius: 999px;
-  border: 2px solid;
+  border: 2px;
   background: #0a0909;
   font-size: 0.9rem;
-  font-weight: 500;
-  line-height: 1.4;
+  font-weight: 0;
+  line-height: 1;
 }
 
 .interest-pill.blue {
