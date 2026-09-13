@@ -59,22 +59,22 @@ My background is in mathematics, machine learning and computer vision.
 }
 
 .interest-pill.blue {
-  border-color: #265689;
+  border-color: #0f1011;
   color: #fdfdfd;
 }
 
 .interest-pill.purple {
-  border-color: #9b59b6;
+  border-color: #110914;
   color: #ffffff;
 }
 
 .interest-pill.teal {
-  border-color: #16a085;
+  border-color: #0c1715;
   color: #ffffff;
 }
 
 .interest-pill.green {
-  border-color: #27ae60;
+  border-color: #08100b;
   color: #ffffff;
 }
 </style>
@@ -82,10 +82,10 @@ My background is in mathematics, machine learning and computer vision.
 <h3>Research Interests</h3>
 
 <div class="interest-container">
-  <span class="interest-pill blue">artificial intelligence &amp; machine learning</span>
-  <span class="interest-pill purple">mathematics &amp; optimization</span>
-  <span class="interest-pill teal">privacy-preserving machine learning</span>
-  <span class="interest-pill green">biomedical imaging &amp; personalized medicine</span>
+  <span class="interest-pill white">artificial intelligence &amp; machine learning</span>
+  <span class="interest-pill white">mathematics &amp; optimization</span>
+  <span class="interest-pill white">privacy-preserving machine learning</span>
+  <span class="interest-pill white">biomedical imaging &amp; personalized medicine</span>
 </div>
 
 <h3>Looking ahead</h3>
