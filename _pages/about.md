@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://aims.ac.rw/">University of Helsinki</a> &nbsp;·&nbsp;
+  <a href="https://www.helsinki.fi/">University of Helsinki</a> &nbsp;·&nbsp;
   Helsinki, Finland &nbsp;·&nbsp;
   <a href="mailto:olivier.z.kanamugire@helsinki.fi">olivier.z.kanamugire@helsinki.fi</a>
 
