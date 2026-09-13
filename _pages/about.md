@@ -38,6 +38,7 @@ latest_posts:
 I am a doctoral researcher at the university of Helsinki in privacy-preserving for personalized medicine.
 Prior to that, I was a research fellow at AIMSRIC and teaching assistant at AIMS-Rwanda.
 My background is in mathematics, machine learning and computer vision.
+
 <style>
 .interest-container {
   display: flex;
