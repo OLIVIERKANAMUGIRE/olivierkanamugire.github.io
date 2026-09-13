@@ -52,14 +52,14 @@ My background is in mathematics, machine learning and computer vision.
   padding: 6px 16px;
   border-radius: 999px;
   border: 1px solid;
-  background: #0a0909;
+  background: #0000;
   font-size: 0.9rem;
   font-weight: 100;
   line-height: 1.2;
 }
 
 .interest-pill.blue {
-  border-color: #0f1011;
+  border-color: #0000;
   color: #fdfdfd;
 }
 
