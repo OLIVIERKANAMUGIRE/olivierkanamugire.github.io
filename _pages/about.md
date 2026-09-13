@@ -54,7 +54,7 @@ My background is in mathematics, machine learning and computer vision.
   border: 2px;
   background: #0a0909;
   font-size: 0.9rem;
-  font-weight: 0;
+  font-weight: 100;
   line-height: 1;
 }
 
