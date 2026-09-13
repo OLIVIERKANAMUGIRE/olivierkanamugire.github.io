@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-01
+date: 01.09.2025
 inline: true
 related_posts: false
 ---
 
-I am joining AIMS-Rwanda as a teaching assistant.
+I am joining African Institute for Mathematical Sciences-Rwanda as a teaching assistant.
